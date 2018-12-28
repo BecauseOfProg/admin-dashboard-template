@@ -1,28 +1,37 @@
-# panel
+# Dashboard template
 
-## Project setup
+This repository contains a template of a dashboard made of VueJS and Vuetify.
+
+## Setup
+
+Make sure you have NodeJS 10 or newer installed. Then, clone the repository on your computer, and install the dependencies :
+
 ```
 npm install
+yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Scripts
+
+Compiles and hot-reloads for development :
+
 ```
 npm run serve
+yarn serve
 ```
 
-### Compiles and minifies for production
+Compiles and minifies for production :
+
 ```
 npm run build
+yarn build
 ```
 
-### Run your tests
-```
-npm run test
-```
+Lints and fixes files :
 
-### Lints and fixes files
 ```
 npm run lint
+yarn lint
 ```
 
 ### Customize configuration
